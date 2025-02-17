@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Larissa Nogueira
+Matricula: 883560
 
 ## Tela de inspeção com navegador
-
+![IMAGEM] (Inspeção com navegador)
 
 ## Tela de projeto no Replit
-
+![IMAGEM] (Projeto no Replit)
