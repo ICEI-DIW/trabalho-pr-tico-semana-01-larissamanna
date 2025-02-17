@@ -7,7 +7,7 @@ Nome: Larissa Nogueira
 Matricula: 883560
 
 ## Tela de inspeção com navegador
-![IMAGEM](InspeçãoNavegador)
+![IMAGEM](InspecaoNavegador.png)
 
 ## Tela de projeto no Replit
-![IMAGEM](ProjetoReplit)
+![IMAGEM](ProjetoReplit.png)
